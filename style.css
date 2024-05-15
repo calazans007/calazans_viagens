@@ -240,7 +240,7 @@ header a {
 @keyframes hideMainImage {
     to {
         width: 135px;
-        height: 200;
+        height: 200px;
         border-radius: 10px;
         left: 50%;
         bottom: 50px;
